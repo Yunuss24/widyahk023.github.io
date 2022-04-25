@@ -13,9 +13,6 @@
 ### Hobi
 - ![S I U E](https://user-images.githubusercontent.com/104265063/165011014-eaa06c19-44f4-4d83-9925-93d57a382c58.png)
 
-
-
-
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
