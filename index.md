@@ -7,7 +7,6 @@
 - ![WhatsApp Image 2022-04-25 at 09 35 34](https://user-images.githubusercontent.com/104265063/165011868-d0993cde-b7b7-4062-83e5-6a2e63b6818e.jpeg)
 - ![WhatsApp Image 2022-04-25 at 09 35 35](https://user-images.githubusercontent.com/104265063/165011952-6f5250eb-b5d1-49bc-abbc-8f87e389bba7.jpeg)
 - ![WhatsApp Image 2022-04-25 at 09 39 42](https://user-images.githubusercontent.com/104265063/165011974-ce4a02b5-d7c3-408b-bef2-4f4d5ab52670.jpeg)
-- ![WhatsApp Image 2022-04-25 at 09 39 42 (1)](https://user-images.githubusercontent.com/104265063/165012029-e4274278-5125-4e0a-b83e4ebf2080beef.jpeg)
 
 ---
 ### Hobi
