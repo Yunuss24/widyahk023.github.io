@@ -1,6 +1,7 @@
 title: Widyah Kurniasari # your name (or website title) here
 logo: "(https://user-images.githubusercontent.com/104265063/165008568-698f00e2-e8b0-4b11-8c95-e141694f953c.jpeg)" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+<br>
  (PZSIB) Data Warehousing, Visualization, and Analysis for Bussines Insight in Zenius 
   <br>
   Statistics Student Undergraduate at Diponegoro University 
@@ -11,3 +12,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID her
+
